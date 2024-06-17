@@ -30,7 +30,7 @@ const Pricing = () => {
               variants={scrollAnimation}
               className="leading-normal w-10/12 sm:w-7/12 lg:w-6/12 mx-auto my-2 text-center"
             >
-              Hubungi tenaga ahli kami untuk mendapatkan rekomendasi paket pilihan yang sesuai dengan kebutuhan anda.
+              Hubungi pusat layanan kami untuk mendapatkan rekomendasi promo dan paket pilihan yang sesuai dengan kebutuhan anda.
             </motion.p>
           </ScrollAnimationWrapper>
           <div className="grid grid-flow-row sm:grid-flow-col grid-cols-1 sm:grid-cols-3 lg:gap-12 py-8 lg:py-12 px-4 sm:px-0 lg:px-6">
@@ -73,7 +73,7 @@ const Pricing = () => {
                   </p>
                   <ButtonOutline>
                     <Link
-                      href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                      href="https://api.whatsapp.com/send?phone=x&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                       className=""
                       target="_blank"
                       rel="noopener"
@@ -119,11 +119,11 @@ const Pricing = () => {
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                   <p className="text-2xl text-black-600 text-center mb-4 ">
-                    272rb
+                    333rb
                   </p>
                   <ButtonOutline>
                     <Link
-                      href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                      href="https://api.whatsapp.com/send?phone=6285179907602&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                       className=""
                       target="_blank"
                       rel="noopener"
@@ -170,11 +170,11 @@ const Pricing = () => {
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                   <p className="text-2xl text-black-600 text-center mb-4 ">
-                    390rb
+                    416rb
                   </p>
                   <ButtonOutline>
                     <Link
-                      href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                      href="https://api.whatsapp.com/send?phone=6285179907602&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                       className=""
                       target="_blank"
                       rel="noopener"
@@ -264,7 +264,7 @@ const Pricing = () => {
                 </div>
                 <ButtonPrimary>
                   <Link
-                        href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                        href="https://api.whatsapp.com/send?phone=6285179907602&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                         className=""
                         target="_blank"
                         rel="noopener"

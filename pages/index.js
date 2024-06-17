@@ -24,7 +24,7 @@ export default function Home() {
         
       </Script>
       
-      <SeoHead title='Promo Kemerdekaan MyRepublic - Internet Super Cepat dan Stabil' />
+      <SeoHead title='Promo Wifi MyRepublic - Internet Super Cepat dan Stabil' />
       <Layout>
         <Hero />
         <Plus />

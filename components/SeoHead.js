@@ -7,7 +7,7 @@ const defaultMeta = {
   title: 'MyRepublic - Internet Super Cepat dan Stabil',
   siteName: 'MyRepublic',
   description:
-    'MyRepublic, Solusi kebutuhan wifi Internet bisnis dan rumahan mulai dari 249rb dengan kecepatan hingga 250 Mbps.',
+    'MyRepublic, Solusi kebutuhan wifi Internet bisnis dan rumahan mulai dari 249rb dengan kecepatan hingga 1 Gbps.',
   // change base url of your web (without '/' at the end)
   url: 'https://myrepublic.web.id',
   type: 'website',
